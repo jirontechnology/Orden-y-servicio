@@ -1,5 +1,5 @@
 // Service Worker - Jiron Technology Background PWA
-const CACHE_NAME = 'jiron-tech-v2';
+const CACHE_NAME = 'jiron-tech-v3';
 
 // Recursos que se cachean para funcionar sin internet
 const STATIC_ASSETS = [
